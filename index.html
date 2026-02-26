@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VALORANT ALL STARS</title>
+    <link rel="stylesheet" href="allstars.css">
+</head>
+
+<body>
+    <div id="overlay-container">
+        <div class="allstars-header">
+            <div class="flv-logo-wrapper" id="flv-logo">
+                <svg viewBox="0 0 220 200" xmlns="http://www.w3.org/2000/svg" class="flv-svg">
+                    <defs>
+                        <!-- Gradient for FL letters (bright gold) -->
+                        <linearGradient id="flGold" x1="0" y1="0" x2="0" y2="1">
+                            <stop offset="0%" stop-color="#fff6b0" />
+                            <stop offset="40%" stop-color="#f9e272" />
+                            <stop offset="100%" stop-color="#d4af37" />
+                        </linearGradient>
+                        <!-- Gradient for V shape (dark gold) -->
+                        <linearGradient id="vGold" x1="0" y1="0" x2="0" y2="1">
+                            <stop offset="0%" stop-color="#d4af37" />
+                            <stop offset="100%" stop-color="#7a5800" />
+                        </linearGradient>
+                        <!-- Glow -->
+                        <filter id="fglow" x="-30%" y="-30%" width="160%" height="160%">
+                            <feGaussianBlur stdDeviation="4.5" result="blur" />
+                            <feMerge>
+                                <feMergeNode in="blur" />
+                                <feMergeNode in="SourceGraphic" />
+                            </feMerge>
+                        </filter>
+                        <filter id="sglow" x="-50%" y="-50%" width="200%" height="200%">
+                            <feGaussianBlur stdDeviation="2" result="blur" />
+                            <feMerge>
+                                <feMergeNode in="blur" />
+                                <feMergeNode in="SourceGraphic" />
+                            </feMerge>
+                        </filter>
+                    </defs>
+
+                    <!-- ====== V CHEVRON ====== -->
+                    <!-- Left arm: wide diagonal bar -->
+                    <polygon points="18,68  55,68  110,180  110,155" fill="url(#vGold)" filter="url(#fglow)" />
+                    <!-- Right arm -->
+                    <polygon points="200,68  164,68  110,180  110,155" fill="url(#vGold)" filter="url(#fglow)" />
+                    <!-- Tip diamond -->
+                    <polygon points="110,180  117,163  110,145  103,163" fill="url(#vGold)" filter="url(#fglow)" />
+
+                    <!-- ====== F LETTER ====== -->
+                    <!-- Left vertical bar of F -->
+                    <polygon points="18,8  48,8  48,120  18,120" fill="url(#flGold)" filter="url(#fglow)" />
+                    <!-- Top horizontal bar (angled right edge to follow V diagonal) -->
+                    <polygon points="18,8  115,8  105,36  18,36" fill="url(#flGold)" filter="url(#fglow)" />
+                    <!-- Mid horizontal bar -->
+                    <polygon points="18,54  92,54  82,78  18,78" fill="url(#flGold)" filter="url(#fglow)" />
+                    <!-- Diagonal transition piece to merge F stem into V left arm -->
+                    <polygon points="48,100  55,68  48,68" fill="url(#flGold)" filter="url(#fglow)" />
+
+                    <!-- ====== L LETTER ====== -->
+                    <!-- Vertical bar of L -->
+                    <polygon points="102,8  132,8  132,112  102,112" fill="url(#flGold)" filter="url(#fglow)" />
+                    <!-- Horizontal base bar of L (tapers to merge with V right arm) -->
+                    <polygon points="102,88  168,88  164,68  132,68  132,112  102,112" fill="url(#flGold)"
+                        filter="url(#fglow)" />
+
+                    <!-- ====== Lens-flare sparks ====== -->
+                    <!-- Top-left cross star -->
+                    <g filter="url(#sglow)" opacity="0.95">
+                        <line x1="18" y1="8" x2="4" y2="-5" stroke="#fff6b0" stroke-width="2.5"
+                            stroke-linecap="round" />
+                        <line x1="18" y1="8" x2="2" y2="16" stroke="#f9e272" stroke-width="1.5"
+                            stroke-linecap="round" />
+                        <line x1="18" y1="8" x2="12" y2="-2" stroke="#ffffff" stroke-width="1" stroke-linecap="round"
+                            opacity="0.7" />
+                    </g>
+                    <!-- Top-right cross star -->
+                    <g filter="url(#sglow)" opacity="0.95">
+                        <line x1="196" y1="8" x2="212" y2="-5" stroke="#fff6b0" stroke-width="2.5"
+                            stroke-linecap="round" />
+                        <line x1="196" y1="8" x2="214" y2="16" stroke="#f9e272" stroke-width="1.5"
+                            stroke-linecap="round" />
+                        <line x1="196" y1="8" x2="206" y2="-2" stroke="#ffffff" stroke-width="1" stroke-linecap="round"
+                            opacity="0.7" />
+                    </g>
+                    <!-- Bottom tip spark -->
+                    <g filter="url(#sglow)" opacity="0.85">
+                        <line x1="110" y1="184" x2="110" y2="200" stroke="#d4af37" stroke-width="2.5"
+                            stroke-linecap="round" />
+                        <line x1="110" y1="184" x2="104" y2="198" stroke="#f9e272" stroke-width="1"
+                            stroke-linecap="round" opacity="0.5" />
+                        <line x1="110" y1="184" x2="116" y2="198" stroke="#f9e272" stroke-width="1"
+                            stroke-linecap="round" opacity="0.5" />
+                    </g>
+                </svg>
+            </div>
+
+            <div class="header-text">
+                <h1 class="allstars-title">ALL STARS</h1>
+                <div class="matchup-subtitle" id="match-title">EXHIBITION MATCH</div>
+            </div>
+        </div>
+
+        <div id="view-content">
+            <!-- Content will be injected by allstars.js -->
+        </div>
+    </div>
+
+    <!-- Gold Particle Overlay (Optional but premium) -->
+    <div id="particles-js"
+        style="position: absolute; top:0; left:0; width:100%; height:100%; pointer-events:none; z-index:-1;"></div>
+
+    <script src="allstars.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,212 @@
+{
+    "Team Ophi": {
+        "team_name": "Team Ophi",
+        "players": {
+            "@aimbotalex.": {
+                "Riot Id": "aimbotalex#5171",
+                "Rank": "Diamond",
+                "Average ACS": 325.1666666666667,
+                "Average K/D": 1.5743589743589743,
+                "Most Played Agent": "Phoenix",
+                "Average ADR": 208.426361777566,
+                "Average KAST": 74.9090909090909,
+                "Average HS%": 36.0985454212536,
+                "First Kills": 49,
+                "First Deaths": 36
+            },
+            "@applezzz03": {
+                "Riot Id": "AppleZZZ#lcky",
+                "Rank": "Platinum",
+                "Average ACS": 220.2,
+                "Average K/D": 1.3333333333333333,
+                "Most Played Agent": "Brimstone",
+                "Average ADR": 150.935998535156,
+                "Average KAST": 76.6,
+                "Average HS%": 27.0034004211426,
+                "First Kills": 5,
+                "First Deaths": 3
+            },
+            "@grandpapapaya": {
+                "Riot Id": "Meow Meow Papaya#meow",
+                "Rank": "Gold",
+                "Average ACS": 250.9090909090909,
+                "Average K/D": 1.534351145038168,
+                "Most Played Agent": "Phoenix",
+                "Average ADR": 166.590907703746,
+                "Average KAST": 80.5454545454545,
+                "Average HS%": 23.8078179792924,
+                "First Kills": 17,
+                "First Deaths": 13
+            },
+            "@milan1738": {
+                "Riot Id": "aang#I738",
+                "Rank": "Silver",
+                "Average ACS": 181.0,
+                "Average K/D": 0.788235294117647,
+                "Most Played Agent": "Clove",
+                "Average ADR": 109.652001953125,
+                "Average KAST": 71.0,
+                "Average HS%": 26.8400001525879,
+                "First Kills": 8,
+                "First Deaths": 12
+            },
+            "@mayflower1324": {
+                "Riot Id": "Mayflower#1324",
+                "Rank": "Iron/Bronze",
+                "Average ACS": 154.58333333333334,
+                "Average K/D": 0.9640287769784173,
+                "Most Played Agent": "Sova",
+                "Average ADR": 106.17333539327,
+                "Average KAST": 75.8333333333333,
+                "Average HS%": 16.7045834064484,
+                "First Kills": 9,
+                "First Deaths": 11
+            }
+        },
+        "averages": {
+            "avg_adr": 148.3557210725726,
+            "avg_kast": 75.77757575757575,
+            "avg_fk_success": 53.987730061349694
+        }
+    },
+    "team myhowto": {
+        "team_name": "team myhowto",
+        "players": {
+            "@imhiru9702": {
+                "Riot Id": "Hiru#\u304a\u3070\u3051",
+                "Rank": "Diamond",
+                "Average ACS": 273.3333333333333,
+                "Average K/D": 1.388235294117647,
+                "Most Played Agent": "Yoru",
+                "Average ADR": 173.04333114624,
+                "Average KAST": 73.3333333333333,
+                "Average HS%": 17.0514996846517,
+                "First Kills": 16,
+                "First Deaths": 14
+            },
+            "@wet sand": {
+                "Riot Id": "WetSand#Groov",
+                "Rank": "Platinum",
+                "Average ACS": 282.2,
+                "Average K/D": 1.4,
+                "Most Played Agent": "Neon",
+                "Average ADR": 177.629998779297,
+                "Average KAST": 70.2,
+                "Average HS%": 20.6479999542236,
+                "First Kills": 20,
+                "First Deaths": 8
+            },
+            "@matt3r_": {
+                "Riot Id": "MATT3R#007",
+                "Rank": "Gold",
+                "Average ACS": 272.2,
+                "Average K/D": 1.216867469879518,
+                "Most Played Agent": "Chamber",
+                "Average ADR": 179.110000610352,
+                "Average KAST": 73.8,
+                "Average HS%": 22.4088001251221,
+                "First Kills": 21,
+                "First Deaths": 11
+            },
+            "@coolerchill": {
+                "Riot Id": "Coolerchill#cool",
+                "Rank": "Silver",
+                "Average ACS": 172.5,
+                "Average K/D": 0.9176470588235294,
+                "Most Played Agent": "Chamber",
+                "Average ADR": 112.288332621257,
+                "Average KAST": 72.3333333333333,
+                "Average HS%": 18.9764997959137,
+                "First Kills": 14,
+                "First Deaths": 15
+            },
+            "@orangereptile": {
+                "Riot Id": "Garfield#910",
+                "Rank": "Iron/Bronze",
+                "Average ACS": 167.71428571428572,
+                "Average K/D": 0.8314606741573034,
+                "Most Played Agent": "Brimstone",
+                "Average ADR": 105.117141723633,
+                "Average KAST": 80.1428571428571,
+                "Average HS%": 11.0691428865705,
+                "First Kills": 6,
+                "First Deaths": 7
+            }
+        },
+        "averages": {
+            "avg_adr": 149.43776097615583,
+            "avg_kast": 73.96190476190475,
+            "avg_fk_success": 58.333333333333336
+        }
+    },
+    "Team noahzones": {
+        "team_name": "Team noahzones",
+        "players": {
+            "@syno_ow": {
+                "Riot Id": "Syno#eevee",
+                "Rank": "Diamond",
+                "Average ACS": 260.5,
+                "Average K/D": 1.173469387755102,
+                "Most Played Agent": "Waylay",
+                "Average ADR": 173.300000508626,
+                "Average KAST": 72.1666666666667,
+                "Average HS%": 22.9560000101725,
+                "First Kills": 16,
+                "First Deaths": 18
+            },
+            "@choccy1672": {
+                "Riot Id": "bbL#monke",
+                "Rank": "Platinum",
+                "Average ACS": 212.5,
+                "Average K/D": 1.0689655172413792,
+                "Most Played Agent": "Cypher",
+                "Average ADR": 151.996247291565,
+                "Average KAST": 78.75,
+                "Average HS%": 28.3453748226166,
+                "First Kills": 20,
+                "First Deaths": 17
+            },
+            "@real_grey": {
+                "Riot Id": "Grey#0430",
+                "Rank": "Gold",
+                "Average ACS": 210.0,
+                "Average K/D": 1.2463768115942029,
+                "Most Played Agent": "Gekko",
+                "Average ADR": 133.421667734782,
+                "Average KAST": 84.3333333333333,
+                "Average HS%": 16.0844997564952,
+                "First Kills": 9,
+                "First Deaths": 3
+            },
+            "@wanderboi.": {
+                "Riot Id": "Wander#Mhm",
+                "Rank": "Silver",
+                "Average ACS": 177.0,
+                "Average K/D": 0.7,
+                "Most Played Agent": "Clove",
+                "Average ADR": 122.045997619629,
+                "Average KAST": 77.4,
+                "Average HS%": 19.6990001678467,
+                "First Kills": 8,
+                "First Deaths": 18
+            },
+            "@_smither": {
+                "Riot Id": "FemBob#6769",
+                "Rank": "Iron/Bronze",
+                "Average ACS": 145.6,
+                "Average K/D": 0.828125,
+                "Most Played Agent": "Deadlock",
+                "Average ADR": 89.7979995727539,
+                "Average KAST": 76.4,
+                "Average HS%": 18.3369997024536,
+                "First Kills": 8,
+                "First Deaths": 13
+            }
+        },
+        "averages": {
+            "avg_adr": 134.1123825454712,
+            "avg_kast": 77.80999999999999,
+            "avg_fk_success": 46.92307692307692
+        }
+    }
+}
