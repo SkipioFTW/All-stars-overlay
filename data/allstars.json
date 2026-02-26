@@ -208,5 +208,63 @@
             "avg_kast": 77.80999999999999,
             "avg_fk_success": 46.92307692307692
         }
+    },
+    "Team s0ck": {
+        "team_name": "Team s0ck",
+        "players": {
+            "@deron0293": {
+                "Riot Id": "DKgaz YT#Gay",
+                "Rank": "Diamond",
+                "Average ACS": 280.3333333333333,
+                "Average K/D": 1.4942528735632183,
+                "Most Played Agent": "Skye",
+                "Average ADR": 185.461667378743,
+                "Average KAST": 72.3333333333333,
+                "Average HS%": 24.7321669260661,
+                "First Kills": 11,
+                "First Deaths": 7
+            },
+            "@klyoko": {
+                "Riot Id": "oKamura#XIC",
+                "Rank": "Gold",
+                "Average ACS": 220.33333333333334,
+                "Average K/D": 1.0769230769230769,
+                "Most Played Agent": "Jett",
+                "Average ADR": 147.569999694824,
+                "Average KAST": 72.6666666666667,
+                "Average HS%": 29.5730002721151,
+                "First Kills": 12,
+                "First Deaths": 15
+            },
+            "@dumbbacon": {
+                "Riot Id": "dumbbacon#bac0n",
+                "Rank": "Silver",
+                "Average ACS": 188.85714285714286,
+                "Average K/D": 0.8632478632478633,
+                "Most Played Agent": "Clove",
+                "Average ADR": 131.325715201242,
+                "Average KAST": 74.2857142857143,
+                "Average HS%": 20.0929998670306,
+                "First Kills": 3,
+                "First Deaths": 2
+            },
+            "@apmoberg": {
+                "Riot Id": "apmoberg#NA1",
+                "Rank": "Iron/Bronze",
+                "Average ACS": 133.0,
+                "Average K/D": 0.6881720430107527,
+                "Most Played Agent": "Sage",
+                "Average ADR": 85.488333384196,
+                "Average KAST": 72.1666666666667,
+                "Average HS%": 14.8803333044052,
+                "First Kills": 4,
+                "First Deaths": 4
+            }
+        },
+        "averages": {
+            "avg_adr": 137.46142891475125,
+            "avg_kast": 72.86309523809526,
+            "avg_fk_success": 51.724137931034484
+        }
     }
 }
