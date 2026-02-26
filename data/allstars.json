@@ -224,6 +224,18 @@
                 "First Kills": 11,
                 "First Deaths": 7
             },
+            "@dilligent12": {
+                "Riot Id": "itachi#tuff",
+                "Rank": "Gold",
+                "Average ACS": 237.66666666666666,
+                "Average K/D": 1.03,
+                "Most Played Agent": "Raze",
+                "Average ADR": 152.646666208903,
+                "Average KAST": 70.1666666666667,
+                "Average HS%": 23.6404995918274,
+                "First Kills": 14,
+                "First Deaths": 15
+            },
             "@klyoko": {
                 "Riot Id": "oKamura#XIC",
                 "Rank": "Gold",
@@ -262,9 +274,9 @@
             }
         },
         "averages": {
-            "avg_adr": 137.46142891475125,
-            "avg_kast": 72.86309523809526,
-            "avg_fk_success": 51.724137931034484
+            "avg_adr": 140.4984763735816,
+            "avg_kast": 72.32380952380953,
+            "avg_fk_success": 50.57471264367817
         }
     }
 }
