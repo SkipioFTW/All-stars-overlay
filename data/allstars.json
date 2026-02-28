@@ -120,23 +120,23 @@
                 "First Kills": 14,
                 "First Deaths": 15
             },
-            "@orangereptile": {
-                "Riot Id": "Garfield#910",
+            "@pluto.gg": {
+                "Riot Id": "bbyplu#pluto",
                 "Rank": "Iron/Bronze",
-                "Average ACS": 167.71428571428572,
-                "Average K/D": 0.8314606741573034,
-                "Most Played Agent": "Brimstone",
-                "Average ADR": 105.117141723633,
-                "Average KAST": 80.1428571428571,
-                "Average HS%": 11.0691428865705,
-                "First Kills": 6,
-                "First Deaths": 7
+                "Average ACS": 135.4,
+                "Average K/D": 0.6388888888888888,
+                "Most Played Agent": "Iso",
+                "Average ADR": 89.7820007324219,
+                "Average KAST": 63.0,
+                "Average HS%": 26.4241996765137,
+                "First Kills": 10,
+                "First Deaths": 10
             }
         },
         "averages": {
-            "avg_adr": 149.43776097615583,
-            "avg_kast": 73.96190476190475,
-            "avg_fk_success": 58.333333333333336
+            "avg_adr": 146.3707327779136,
+            "avg_kast": 70.53333333333333,
+            "avg_fk_success": 58.27338129496403
         }
     },
     "Team noahzones": {
